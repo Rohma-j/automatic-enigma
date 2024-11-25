@@ -1,2 +1,2 @@
 # automatic-enigma
-my first github
+my first github()
